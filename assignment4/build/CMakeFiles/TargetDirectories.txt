@@ -1,0 +1,5 @@
+/Users/mlemon/C++/assignment4/build/CMakeFiles/ArrayPerformance.dir
+/Users/mlemon/C++/assignment4/build/CMakeFiles/UnitTestRunner.dir
+/Users/mlemon/C++/assignment4/build/CMakeFiles/test.dir
+/Users/mlemon/C++/assignment4/build/CMakeFiles/edit_cache.dir
+/Users/mlemon/C++/assignment4/build/CMakeFiles/rebuild_cache.dir

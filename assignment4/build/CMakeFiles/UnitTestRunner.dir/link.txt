@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names -Wl,-stack_size,0x960000 CMakeFiles/UnitTestRunner.dir/TestPerformance.cpp.o CMakeFiles/UnitTestRunner.dir/sortutils.cpp.o -o UnitTestRunner  /Users/mlemon/anaconda3/lib/libgtest.1.10.0.dylib -lpthread
